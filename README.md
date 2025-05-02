@@ -17,19 +17,11 @@ Whether you’re testing algorithms or building foundations for larger systems, 
 
 💻 **System Requirements**
 Install the required Python packages using:
-
-bash
-Copy
-Edit
 pip install pandas numpy scikit-learn matplotlib openpyxl
 🚀 Quick Start
 Save the script as soil_erosion_simulation.py.
 
 Run it in your preferred Python environment:
-
-bash
-Copy
-Edit
 python soil_erosion_simulation.py
 Outputs:
 
